@@ -1,4 +1,24 @@
+## WIP 
+
 ### Hi there :) 👋
+
+
+### Reinforcement Learning Projects
+
+| Environment                      | Best Checkpoint                                                                                                 | mean_reward | Demo                                                                                                                             |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------|
+| LunarLander-v2                  | [Checkpoint](https://huggingface.co/DrishtiSharma/PPO-LunarLander-v2-12M-steps-successive-training)           | 280.89      | [Demo](https://huggingface.co/DrishtiSharma/PPO-LunarLander-v2-12M-steps-successive-training/resolve/main/replay.mp4)           |
+| Taxi-v3                          | [Checkpoint](https://huggingface.co/DrishtiSharma/q-Taxi-v3-100000-episodes)                                 | 4.85        | [Demo](https://huggingface.co/DrishtiSharma/q-Taxi-v3-100000-episodes/resolve/main/replay.mp4)                                 |
+| SpaceInvadersNoFrameskip-v4      | [Checkpoint](https://huggingface.co/DrishtiSharma/dqn-SpaceInvadersNoFrameskip-v4-2M-steps)                  | 502.78      | [Demo](https://huggingface.co/DrishtiSharma/dqn-SpaceInvadersNoFrameskip-v4-2M-steps/resolve/main/replay.mp4)                  |
+| CartPole-v1                      | [Checkpoint](https://huggingface.co/DrishtiSharma/Reinforce-CartPole-v1-10k-steps)                           | 500         | [Demo](https://huggingface.co/DrishtiSharma/Reinforce-CartPole-v1-10k-steps/resolve/main/replay.mp4)                           |
+| Pixelcopter-PLE-v0               | [Checkpoint](https://huggingface.co/DrishtiSharma/Reinforce-PixelCopter-1L)                                 | 25.01       | [Demo](https://huggingface.co/DrishtiSharma/Reinforce-PixelCopter-1L/resolve/main/replay.mp4)                                 |
+| PandaReachDense                  | [Checkpoint](https://huggingface.co/DrishtiSharma/a2c-PandaReachDense-v2)                                    | -1.66       | [Demo](https://huggingface.co/DrishtiSharma/a2c-PandaReachDense-v2/resolve/main/replay.mp4)                                    |
+| doom_health_gathering_supreme    | [Checkpoint](https://huggingface.co/DrishtiSharma/rl_course_vizdoom_health_gathering_supreme)                 | 7.12        | [Demo](https://huggingface.co/DrishtiSharma/rl_course_vizdoom_health_gathering_supreme/resolve/main/replay.mp4)                 |
+| ML-Agents-SnowballTarget         | [Checkpoint](https://huggingface.co/DrishtiSharma/ppo-SnowballTarget)                                         | 0           | [Demo](#)                                                                                                                       |
+| ML-Agents-Pyramids               | [Checkpoint](https://huggingface.co/DrishtiSharma/ppo-Pyramids)                                               | 0           | [Demo](#)                                                                                                                       |
+| ML-Agents-SoccerTwos             | [Checkpoint](https://huggingface.co/DrishtiSharma/SoccerTwos-numlayers-16)                                   | 0           | [Demo](#)                                                                                                                       |
+
+
 
 <!--
 **DrishtiShrrrma/DrishtiShrrrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
