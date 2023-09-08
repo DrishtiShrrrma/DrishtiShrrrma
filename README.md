@@ -44,7 +44,7 @@ dfghjkl
 | Project 12         | Checkpoint 12    | Highlights of Project 12 | Metrics for Project 12   | [Blog 12 Link](#)       | [Demo 12 Link](#)     |
 | Project 13         | Checkpoint 13    | Highlights of Project 13 | Metrics for Project 13   | [Blog 13 Link](#)       | [Demo 13 Link](#)     |
 | Project 14         | Checkpoint 14    | Highlights of Project 14 | Metrics for Project 14   | [Blog 14 Link](#)       | [Demo 14 Link](#)     |
-| codeBERT-based Password Strength Classifier         | [Hugging Face](https://huggingface.co/DrishtiSharma/codebert-base-password-strength-classifier-normal-weight-balancing)    | Highlights of Project 15 | Metrics for Project 15   | [Blog 15 Link](#)       | [Demo 15 Link](#)     |
+| codeBERT-based Password Strength Classifier         | [Hugging Face](https://huggingface.co/DrishtiSharma/codebert-base-password-strength-classifier-normal-weight-balancing)    | Highlights of Project 15 | Metrics for Project 15   | [Blog](https://github.com/DrishtiShrrrma/codebert-base-password-strength-classifier/blob/main/README.md)       | [Demo 15 Link](#)     |
 
 
 #### 🎶 Audio Projects
