@@ -22,17 +22,15 @@ Hello there! I'm **Your Name**. With a passion for technology and a knack for pr
 <details>
 <summary><a name="achievements"></a>🏆 Achievements</summary>
 
-- **Gold Medalist** - National Tech Championship 2022
-- **Top Performer** - Global Hackathon Series
-- **AI Innovator Award** - Tech Titans 2021
+
+- 
 
 </details>
 
 <details>
 <summary><a name="volunteer-experience"></a>💪 Volunteer Experience</summary>
 
-- **Tech Mentor** at CodeForAll: Mentored over 50 students, helping them grasp advanced coding concepts.
-- **Organizer** at AI for Good Summit: Managed a team of 20, successfully hosting a summit with over 2k attendees.
+
 
 </details>
 
