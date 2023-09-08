@@ -28,7 +28,7 @@ dfghjkl
 
 #### 🤖 NLP Projects
 
-| Project Name       | Checkpoint       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
+| Project Name       | Checkpoint & Code       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
 | Project 1          | Checkpoint 1     | Highlights of Project 1  | Metrics for Project 1    | [Blog 1 Link](#)        | [Demo 1 Link](#)      |
 | Project 2          | Checkpoint 2     | Highlights of Project 2  | Metrics for Project 2    | [Blog 2 Link](#)        | [Demo 2 Link](#)      |
