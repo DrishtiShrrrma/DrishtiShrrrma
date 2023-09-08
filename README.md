@@ -15,7 +15,7 @@
 <details>
 <summary><a name="about-me"></a>About Me 🙋‍♂️</summary>
 
-Hello there! I'm **Your Name**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Reinforcement Learning.
+Hello there! I'm **Drishti**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Reinforcement Learning. (WIP)
 
 </details>
 
