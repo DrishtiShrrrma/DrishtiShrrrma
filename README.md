@@ -1,18 +1,12 @@
-Portfolio
-│
-├── About Me
-│
-├── Achievements
-│
-├── Certifications
-│
-├── Volunteer Experience
-│
-├── NLP Projects
-│
-├── Audio Projects
-│
-└── Reinforcement Learning Projects 
+### Portfolio
+
+- [About Me](#)
+- [Achievements](#)
+- [Certifications](#)
+- [Volunteer Experience](#)
+- [NLP Projects](#)
+- [Audio Projects](#)
+- [Reinforcement Learning Projects](#)
 
 
 
