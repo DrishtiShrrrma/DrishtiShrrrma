@@ -10,32 +10,19 @@
 
 
 
-<details>
-<summary><a name="about-me"></a>About Me 🙋‍♂️</summary>
+#### About Me 🙋‍♂️
 
 Hello there! I'm **Drishti**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Reinforcement Learning. (WIP)
 
-</details>
+#### 🏆 Achievements
 
-<details>
-<summary><a name="achievements"></a>🏆 Achievements</summary>
+fghjkl
 
+#### 💪 Volunteer Experience
 
-- 
+dfghjkl
 
-</details>
-
-<details>
-<summary><a name="volunteer-experience"></a>💪 Volunteer Experience</summary>
-
-
-
-</details>
-
-<details>
-<summary><a name="nlp-projects"></a>🤖 NLP Projects</summary>
-
-### NLP Projects
+#### 🤖 NLP Projects
 
 | Project Name       | Checkpoint       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
@@ -56,12 +43,8 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 | Project 15         | Checkpoint 15    | Highlights of Project 15 | Metrics for Project 15   | [Blog 15 Link](#)       | [Demo 15 Link](#)     |
 
 
-</details>
+#### 🎶 Audio Projects
 
-<details>
-<summary><a name="audio-projects"></a>🎶 Audio Projects</summary>
-
-###  Projects
 
 | Project Name       | Checkpoint       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
@@ -77,13 +60,7 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 | Project 10         | Checkpoint 10    | Highlights of Project 10 | Metrics for Project 10   | [Blog 10 Link](#)       | [Demo 10 Link](#)     |
 
 
-
-</details>
-
-<details>
-<summary><a name="reinforcement-learning-projects"></a>🕹 Reinforcement Learning Projects</summary>
-
-### Reinforcement Learning Projects
+#### 🕹Reinforcement Learning Projects
 
 | Index | Environment                      | Best Checkpoint                                                                                                 | mean_reward | Demo                                                                                                                             |
 |-------|----------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------|
