@@ -3,14 +3,22 @@
 ### Hi there :) 👋
 
 
-# Portfolio Overview
 
-- [About Me](#about-me)
-- [Achievements](#achievements)
-- [Volunteer Experience](#volunteer-experience)
-- [NLP Projects](#nlp-projects)
-- [Audio Projects](#audio-projects)
-- [Reinforcement Learning Projects](#reinforcement-learning-projects)
+# **Portfolio**
+│
+├── [About Me](#)
+│
+├── [Achievements](#)
+│
+├── [Certifications](#)
+│
+├── [Volunteer Experience](#)
+│
+├── [NLP Projects](#)
+│
+├── [Audio Projects](#)
+│
+└── [Reinforcement Learning Projects](#)
 
 <details>
 <summary><a name="about-me"></a>About Me 🙋‍♂️</summary>
