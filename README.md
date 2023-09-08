@@ -14,19 +14,19 @@
 
 Hello there! I'm **Drishti**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Reinforcement Learning. (WIP)
 
-#### 🏆 Achievements
+## 🏆 Achievements
 
 fghjkl
 
-### Certifications
+## Certifications
 
 asgtd
 
-#### 💪 Volunteer Experience
+## 💪 Volunteer Experience
 
 dfghjkl
 
-#### 🤖 NLP Projects
+## 🤖 NLP Projects
 
 | Project Name       | Checkpoint & Code       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
