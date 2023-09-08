@@ -2,23 +2,22 @@
 
 ### Hi there :) 👋
 
+Portfolio
+│
+├── About Me
+│
+├── Achievements
+│
+├── Certifications
+│
+├── Volunteer Experience
+│
+├── NLP Projects
+│
+├── Audio Projects
+│
+└── Reinforcement Learning Projects
 
-
-# **Portfolio**
-│
-├── [About Me](#)
-│
-├── [Achievements](#)
-│
-├── [Certifications](#)
-│
-├── [Volunteer Experience](#)
-│
-├── [NLP Projects](#)
-│
-├── [Audio Projects](#)
-│
-└── [Reinforcement Learning Projects](#)
 
 <details>
 <summary><a name="about-me"></a>About Me 🙋‍♂️</summary>
