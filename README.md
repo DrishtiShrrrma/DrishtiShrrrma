@@ -3,6 +3,42 @@
 ### Hi there :) 👋
 
 
+# Portfolio Overview
+
+- [About Me](#about-me)
+- [Achievements](#achievements)
+- [Volunteer Experience](#volunteer-experience)
+- [NLP Projects](#nlp-projects)
+- [Audio Projects](#audio-projects)
+- [Reinforcement Learning Projects](#reinforcement-learning-projects)
+
+<details>
+<summary><a name="about-me"></a>About Me 🙋‍♂️</summary>
+
+Hello there! I'm **Your Name**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Reinforcement Learning.
+
+</details>
+
+<details>
+<summary><a name="achievements"></a>🏆 Achievements</summary>
+
+- **Gold Medalist** - National Tech Championship 2022
+- **Top Performer** - Global Hackathon Series
+- **AI Innovator Award** - Tech Titans 2021
+
+</details>
+
+<details>
+<summary><a name="volunteer-experience"></a>💪 Volunteer Experience</summary>
+
+- **Tech Mentor** at CodeForAll: Mentored over 50 students, helping them grasp advanced coding concepts.
+- **Organizer** at AI for Good Summit: Managed a team of 20, successfully hosting a summit with over 2k attendees.
+
+</details>
+
+<details>
+<summary><a name="nlp-projects"></a>🤖 NLP Projects</summary>
+
 ### NLP Projects
 
 | Project Name       | Checkpoint       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
@@ -24,6 +60,32 @@
 | Project 15         | Checkpoint 15    | Highlights of Project 15 | Metrics for Project 15   | [Blog 15 Link](#)       | [Demo 15 Link](#)     |
 
 
+</details>
+
+<details>
+<summary><a name="audio-projects"></a>🎶 Audio Projects</summary>
+
+###  Projects
+
+| Project Name       | Checkpoint       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
+|--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
+| Project 1          | Checkpoint 1     | Highlights of Project 1  | Metrics for Project 1    | [Blog 1 Link](#)        | [Demo 1 Link](#)      |
+| Project 2          | Checkpoint 2     | Highlights of Project 2  | Metrics for Project 2    | [Blog 2 Link](#)        | [Demo 2 Link](#)      |
+| Project 3          | Checkpoint 3     | Highlights of Project 3  | Metrics for Project 3    | [Blog 3 Link](#)        | [Demo 3 Link](#)      |
+| Project 4          | Checkpoint 4     | Highlights of Project 4  | Metrics for Project 4    | [Blog 4 Link](#)        | [Demo 4 Link](#)      |
+| Project 5          | Checkpoint 5     | Highlights of Project 5  | Metrics for Project 5    | [Blog 5 Link](#)        | [Demo 5 Link](#)      |
+| Project 6          | Checkpoint 6     | Highlights of Project 6  | Metrics for Project 6    | [Blog 6 Link](#)        | [Demo 6 Link](#)      |
+| Project 7          | Checkpoint 7     | Highlights of Project 7  | Metrics for Project 7    | [Blog 7 Link](#)        | [Demo 7 Link](#)      |
+| Project 8          | Checkpoint 8     | Highlights of Project 8  | Metrics for Project 8    | [Blog 8 Link](#)        | [Demo 8 Link](#)      |
+| Project 9          | Checkpoint 9     | Highlights of Project 9  | Metrics for Project 9    | [Blog 9 Link](#)        | [Demo 9 Link](#)      |
+| Project 10         | Checkpoint 10    | Highlights of Project 10 | Metrics for Project 10   | [Blog 10 Link](#)       | [Demo 10 Link](#)     |
+
+
+
+</details>
+
+<details>
+<summary><a name="reinforcement-learning-projects"></a>🕹 Reinforcement Learning Projects</summary>
 
 ### Reinforcement Learning Projects
 
@@ -39,6 +101,20 @@
 | 8     | ML-Agents-SnowballTarget         | [Checkpoint](https://huggingface.co/DrishtiSharma/ppo-SnowballTarget)                                         | 0           | Demo                                                                                                                       |
 | 9     | ML-Agents-Pyramids               | [Checkpoint](https://huggingface.co/DrishtiSharma/ppo-Pyramids)                                               | 0           | Demo                                                                                                                       |
 | 10    | ML-Agents-SoccerTwos             | [Checkpoint](https://huggingface.co/DrishtiSharma/SoccerTwos-numlayers-16)                                   | 0           | Demo                                                                                                                       |
+
+
+
+</details>
+
+---
+
+Thank you for taking the time to explore my journey! 👨‍💻
+
+
+
+
+
+
 
 
 
