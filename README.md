@@ -1,4 +1,4 @@
-### Portfolio
+## Portfolio
 
 - [About Me](#)
 - [Achievements](#)
@@ -10,13 +10,17 @@
 
 
 
-#### About Me 🙋‍♂️
+## About Me 🙋‍♂️
 
 Hello there! I'm **Drishti**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Reinforcement Learning. (WIP)
 
 #### 🏆 Achievements
 
 fghjkl
+
+### Certifications
+
+asgtd
 
 #### 💪 Volunteer Experience
 
