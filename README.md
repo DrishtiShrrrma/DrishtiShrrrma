@@ -43,7 +43,7 @@ dfghjkl
 | Project 11         | Checkpoint 11    | Highlights of Project 11 | Metrics for Project 11   | [Blog 11 Link](#)       | [Demo 11 Link](#)     |
 | Project 12         | Checkpoint 12    | Highlights of Project 12 | Metrics for Project 12   | [Blog 12 Link](#)       | [Demo 12 Link](#)     |
 | Project 13         | Checkpoint 13    | Highlights of Project 13 | Metrics for Project 13   | [Blog 13 Link](#)       | [Demo 13 Link](#)     |
-| Project 14         | Checkpoint 14    | Highlights of Project 14 | Metrics for Project 14   | [Blog 14 Link](#)       | [Demo 14 Link](#)     |
+| BERT-base MCQA         | [Hugging Face](https://huggingface.co/DrishtiSharma/bert-base-uncased-cosmos-mcqa), [GitHub](https://github.com/DrishtiShrrrma/bert-base-uncased-cosmos-mcqa)    | Highlights of Project 14 | Metrics for Project 14   | [Blog 14 Link](#)       | [Demo 14 Link](#)     |
 | codeBERT-based Password Strength Classifier         | [Hugging Face](https://huggingface.co/DrishtiSharma/codebert-base-password-strength-classifier-normal-weight-balancing), [GitHub](https://github.com/DrishtiShrrrma/codebert-base-password-strength-classifier/)| Highlights of Project 15 | Metrics for Project 15   | [Blog](https://github.com/DrishtiShrrrma/codebert-base-password-strength-classifier/blob/main/README.md)       | [Demo 15 Link](#)     |
 
 
