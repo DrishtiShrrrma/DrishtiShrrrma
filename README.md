@@ -1,7 +1,3 @@
-## WIP 
-
-### Hi there :) 👋
-
 Portfolio
 │
 ├── About Me
@@ -16,7 +12,8 @@ Portfolio
 │
 ├── Audio Projects
 │
-└── Reinforcement Learning Projects
+└── Reinforcement Learning Projects 
+
 
 
 <details>
