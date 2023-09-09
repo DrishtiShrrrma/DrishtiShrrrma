@@ -1,12 +1,12 @@
 # Portfolio
 
-- [About Me](#)
-- [Achievements](#)
-- [Certifications](#)
-- [Volunteer Experience](#)
-- [NLP Projects](#)
-- [Audio Projects](#)
-- [Reinforcement Learning Projects](#)
+- [About Me](https://github.com/DrishtiShrrrma#about-me-%EF%B8%8F)
+- [Achievements](https://github.com/DrishtiShrrrma#-achievements)
+- [Certifications](https://github.com/DrishtiShrrrma#certifications)
+- [Volunteer Experience](https://github.com/DrishtiShrrrma#-volunteer-experience)
+- [NLP Projects](https://github.com/DrishtiShrrrma#-nlp-projects)
+- [Audio Projects](https://github.com/DrishtiShrrrma#-audio-projects)
+- [Reinforcement Learning Projects](https://github.com/DrishtiShrrrma#reinforcement-learning-projects)
 
 
 
