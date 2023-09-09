@@ -21,7 +21,8 @@ fghjkl
 ## Certifications
 
 1. Hugging Face [NLP Course Part-1 and Part-2](https://drive.google.com/file/d/1au4ozu8qrj0cV3391OwtyWknEXkxmA2K/view?usp=sharing).
-2. 
+2. Hugging Face [Deep Reinforcement Learning Course 2023](https://github.com/DrishtiShrrrma/huggingface-RL-course-2023#huggingface-rl-course-2023).
+3. Hugging Face Audio Course
 
 ## 💪 Volunteer Experience
 
