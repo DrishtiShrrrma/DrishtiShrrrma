@@ -25,7 +25,7 @@ asgtd
 ## 💪 Volunteer Experience
 
 1. Reviewed an NLP research paper for EMNLP 2023.
-2. Trained, tested, and deployed TF-based models for Keras at Hugging Face - March'22.
+2. Trained, tested, and deployed TF-based models for [Keras at Hugging Face](https://huggingface.co/keras-io) - March'22.
 
 ## 🤖 NLP Projects
 
