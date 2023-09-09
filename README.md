@@ -34,7 +34,7 @@ fghjkl
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
 | Project 1          | Checkpoint 1     | Highlights of Project 1  | Metrics for Project 1    | [Blog 1 Link](#)        | [Demo 1 Link](#)      |
 | Project 2          | Checkpoint 2     | Highlights of Project 2  | Metrics for Project 2    | [Blog 2 Link](#)        | [Demo 2 Link](#)      |
-| Project 3          | Checkpoint 3     | Highlights of Project 3  | Metrics for Project 3    | [Blog 3 Link](#)        | [Demo 3 Link](#)      |
+| Llama-2 with Flash Attention LoRA Analysis         | [Hugging Face](https://huggingface.co/collections/DrishtiSharma/enhancing-llama-2-a-study-of-flash-attention-and-lora-rank-64fca1772d20ced4e936f326); [GitHub](#)     | Highlights of Project 3  | Metrics for Project 3    | [Blog 3 Link](#)        | [Demo 3 Link](#)      |
 | Project 4          | Checkpoint 4     | Highlights of Project 4  | Metrics for Project 4    | [Blog 4 Link](#)        | [Demo 4 Link](#)      |
 | Project 5          | Checkpoint 5     | Highlights of Project 5  | Metrics for Project 5    | [Blog 5 Link](#)        | [Demo 5 Link](#)      |
 | Project 6          | Checkpoint 6     | Highlights of Project 6  | Metrics for Project 6    | [Blog 6 Link](#)        | [Demo 6 Link](#)      |
