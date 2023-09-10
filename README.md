@@ -19,7 +19,7 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 1. **Hugging Face Whisper Fine-tuning Event, Dec'22:**
    - Secured 1st position for fine-tuned Whisper models for ASR task across 11 different low-resource languages, leveraging the Mozilla Common Voice 11 dataset. Languages included Azerbaijani, Breton, Hausa, Hindi, Kazakh, Lithuanian, Marathi, Nepali, Punjabi, Slovenian, and Serbian.
    - Models outperformed even the benchmarks set by OpenAI's Whisper research paper.
-2. **Wav2Vec2 Fine-tuning Event, Feb'22:**
+2. **Hugging Face Wav2Vec2 Fine-tuning Event, Feb'22:**
    - Attained 1st position with models fine-tuned for 7 distinct languages, namely: .
    - 
 3. Analytics Vidhya Blogathon Winner - Best Guide
