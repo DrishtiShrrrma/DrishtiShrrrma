@@ -26,7 +26,7 @@ fghjkl
 
 ## 💪 Volunteer Experience
 
-1. Reviewed an NLP research paper for [EMNLP Aug'23](https://2023.emnlp.org/).
+1. Reviewed an NLP research paper for [EMNLP - Aug'23](https://2023.emnlp.org/).
 2. Trained, tested, and deployed TF-based models for [Keras at Hugging Face](https://huggingface.co/keras-io) - March'22.
 
 ## 🤖 NLP Projects
