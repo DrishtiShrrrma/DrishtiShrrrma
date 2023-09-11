@@ -39,7 +39,7 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 1. Reviewed an NLP research paper for [EMNLP - Aug'23](https://2023.emnlp.org/).
 2. Trained, tested, and deployed TF-based models for [Keras at Hugging Face](https://huggingface.co/keras-io) - March'22.
 
-## 🤖 NLP Projects
+# 🤖 NLP Projects
 
 | Project Name       | Checkpoint & Code       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
@@ -60,7 +60,8 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 | **BERT-base MCQA**       | [Hugging Face](https://huggingface.co/DrishtiSharma/bert-base-uncased-cosmos-mcqa), [GitHub](https://github.com/DrishtiShrrrma/bert-base-uncased-cosmos-mcqa)    | Highlights of Project 14 | Metrics for Project 14   |        |      |
 | **Fine-tuning 4-bit Llama-2-7b with Flash Attention using DPO**  | [GitHub](https://github.com/DrishtiShrrrma/llama-2-7b-dpo)   | **Training Halted Prematurely**  | **Training Halted Prematurely** | [Blog](https://medium.com/@drishtisharma96505/fine-tune-llama-2-7b-with-flash-attention-using-dpo-f989e7e6bfa4)       |     |
 
-#### 🎶 Audio Projects
+
+# 🎶 Audio Projects
 
 
 | Project Name       | Checkpoint       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
@@ -77,7 +78,7 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 | Project 10         | Checkpoint 10    | Highlights of Project 10 | Metrics for Project 10   | [Blog 10 Link](#)       | [Demo 10 Link](#)     |
 
 
-#### 🕹Reinforcement Learning Projects
+# 🕹Reinforcement Learning Projects
 
 | Index | Environment                      | Best Checkpoint                                                                                                 | mean_reward | Demo                                                                                                                             |
 |-------|----------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------|
