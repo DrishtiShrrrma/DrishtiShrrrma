@@ -50,9 +50,9 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 | Project 4          | Checkpoint 4     | Highlights of Project 4  | Metrics for Project 4    | [Blog 4 Link](#)        | [Demo 4 Link](#)      |
 | Project 5          | Checkpoint 5     | Highlights of Project 5  | Metrics for Project 5    | [Blog 5 Link](#)        | [Demo 5 Link](#)      |
 | Project 6          | Checkpoint 6     | Highlights of Project 6  | Metrics for Project 6    | [Blog 6 Link](#)        | [Demo 6 Link](#)      |
-| Project 7          | Checkpoint 7     | Highlights of Project 7  | Metrics for Project 7    | [Blog 7 Link](#)        | [Demo 7 Link](#)      |
+| Projec         | Checkpoint 7     | Highlights of Project 7  | Metrics for Project 7    | [Blog 7 Link](#)        | [Demo 7 Link](#)      |
 | Project 8          | Checkpoint 8     | Highlights of Project 8  | Metrics for Project 8    | [Blog 8 Link](#)        | [Demo 8 Link](#)      |
-| Project 9          | Checkpoint 9     | Highlights of Project 9  | Metrics for Project 9    | [Blog 9 Link](#)        | [Demo 9 Link](#)      |
+| Adapter          | Checkpoint 9     | Highlights of Project 9  | Metrics for Project 9    | [Blog 9 Link](https://www.analyticsvidhya.com/blog/2023/04/training-an-adapter-for-roberta-model-for-sequence-classification-task)    | [Demo 9 Link](#)      |
 | Project 10         | Checkpoint 10    | Highlights of Project 10 | Metrics for Project 10   | [Blog 10 Link](#)       | [Demo 10 Link](#)     |
 | Project 11         | Checkpoint 11    | Highlights of Project 11 | Metrics for Project 11   | [Blog 11 Link](#)       | [Demo 11 Link](#)     |
 | Project 12         | Checkpoint 12    | Highlights of Project 12 | Metrics for Project 12   | [Blog 12 Link](#)       | [Demo 12 Link](#)     |
