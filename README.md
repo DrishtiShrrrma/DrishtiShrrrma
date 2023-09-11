@@ -41,7 +41,7 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 
 # 🤖 NLP Projects
 
-| Project Name       | Checkpoint & Code       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
+| Project Name       | Checkpoint & Code       | Key Highlights           | Metrics                  | Blog                    | Demo   (WIP)               |
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
 | Comparative Analysis of LoRA Parameters on Llama-2 with Flash Attention        | [Hugging Face](https://huggingface.co/collections/DrishtiSharma/enhancing-llama-2-a-study-of-flash-attention-and-lora-rank-64fca1772d20ced4e936f326); [GitHub](https://github.com/DrishtiShrrrma/llama-2-7b-dolly-15k-lora-parameter-analysis)     | While varying r and lora_dropout introduces subtle variations, lora_alpha has a more pronounced effect on training loss and inference efficiency.  | Metrics for Project 3    | [Blog](https://medium.com/@drishtisharma96505/comparative-analysis-of-lora-parameters-on-llama-2-with-flash-attention-574b913295d4)        |      |
 | **Dissecting Llama-2-7b's Behavior with Varied Pretraining and Attention Mechanisms**          | [Hugging Face](); [GitHub](https://github.com/DrishtiShrrrma/llama-2-7b-alpaca-flash-atn-vs-atn-vs-tp)     | i) Flash Attention nearly halves the training time compared to Normal Attention. ii) Minimal difference in training loss across different pretraining_tp values. | train_loss=0.88    | [Blog](https://medium.com/@drishtisharma96505/dissecting-llama-2s-behavior-with-varied-pretraining-temperature-and-attention-mechanisms-18c47bd64dbf)        |      |
