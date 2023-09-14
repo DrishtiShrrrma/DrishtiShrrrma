@@ -15,6 +15,7 @@
 Hello there! I'm **Drishti**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Audio DL and Reinforcement Learning.
 
 I started my career with Clarivate, Noida, where I worked for four years as an IP Researcher and IP Consultant respectively. This deep dive into patents not only honed my analytical skills but also introduced me to the vast expanse of AI. However, as time passed, a restless quest for greater purpose and multiple unexpected twists in life pushed me to re-invent and rebuild my life.
+
 After segueing into the Data Science domain I contribute to platforms like Hugging Face Hub to channel my experiences into contributing to and shaping the future of open-source models and share my insights via articles on Medium and Analytics Vidhya.
 
 ## 🏆 Achievements
