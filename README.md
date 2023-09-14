@@ -59,6 +59,8 @@ After segueing into the Data Science domain I've actively engaged with the [Hugg
 | **codeBERT-based Password Strength Classifier**         | [Hugging Face](https://huggingface.co/DrishtiSharma/codebert-base-password-strength-classifier-normal-weight-balancing), [GitHub](https://github.com/DrishtiShrrrma/codebert-base-password-strength-classifier/)|Data Visualization Charts, Handled Imbalanced Data, Casing affected Password Strength  |  eval_Macro F1 = 0.9966, eval_Weighted Recall = 0.9977, eval_accuracy = 0.9977  | [Blog](https://github.com/DrishtiShrrrma/codebert-base-password-strength-classifier/blob/main/README.md)       |      |
 | **BERT-base MCQA**       | [Hugging Face](https://huggingface.co/DrishtiSharma/bert-base-uncased-cosmos-mcqa), [GitHub](https://github.com/DrishtiShrrrma/bert-base-uncased-cosmos-mcqa)    | Overfitted Model, didn't perform really well | eval_loss= 2.03, eval_accuracy = 0.593   |        |      |
 | **Fine-tuning 4-bit Llama-2-7b with Flash Attention using DPO**  | [GitHub](https://github.com/DrishtiShrrrma/llama-2-7b-dpo)   | **Training Halted Prematurely**  | **Training Halted Prematurely** | [Blog](https://medium.com/@drishtisharma96505/fine-tune-llama-2-7b-with-flash-attention-using-dpo-f989e7e6bfa4)       |     |
+|**Sentence-t5-large Quora Text Similarity Checker**|[Hugging Face](), [GitHub](https://github.com/DrishtiShrrrma/sentence-t5-large-quora-text-similarity)||||
+|**Stable Diffusion Prompt Generator**|[Hugging Face](), [GitHub](https://github.com/DrishtiShrrrma/stablediffusion-prompt-generator)||||
 
 
 # 🎶 Audio Projects
