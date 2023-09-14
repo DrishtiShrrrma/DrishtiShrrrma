@@ -24,13 +24,13 @@ After segueing into the Data Science domain I've actively engaged with the [Hugg
    - Secured 1st position for [fine-tuned Whisper models](https://huggingface.co/collections/DrishtiSharma/whisper-fine-tuning-event-winning-models-64fe0b2e8710fc5ebddd27c0) for ASR task across 11 different low-resource languages, leveraging the Mozilla Common Voice 11 dataset. Languages included Azerbaijani, Breton, Hausa, Hindi, Kazakh, Lithuanian, Marathi, Nepali, Punjabi, Slovenian, and Serbian.
    - Models outperformed even the benchmarks set by OpenAI's Whisper research paper.
 2. **Hugging Face Wav2Vec2 Fine-tuning Event, Feb'22:**
-   - Attained 1st position with models fine-tuned for 7 distinct languages, namely: .
+   - Attained 1st position with models fine-tuned for 7 distinct languages.
    - 
-3. Analytics Vidhya Blogathon Winner - Best Guide
+3. Secured 3rd place in Analytics Vidhya Blogathon'26 for 'Best Guide'.
    
-4. Analytics Vidhya Blogathon Winner - Best Article
+4. Ranked 3rd in Analytics Vidhya Blogathon'26 for 'Best Article'.
 
-5. Analytics Vidhya Blogathon Winner - Best Article -
+5. Analytics Vidhya Blogathon Winner - Best Article
 
 ## 🥇 Certifications
 
