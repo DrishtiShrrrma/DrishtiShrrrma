@@ -63,19 +63,6 @@ After segueing into the Data Science domain I've actively engaged with the [Hugg
 |**Stable Diffusion Prompt Generator**|[Hugging Face](), [GitHub](https://github.com/DrishtiShrrrma/stablediffusion-prompt-generator)||||
 
 
-# 🎶 Audio Projects
-
-
-| Project Name       | Checkpoint       | Metrics                  | Blog                    | Demo                  |
-|--------------------|------------------|--------------------------|-------------------------|-----------------------|
-| ASR using Whisper        | [Hugging Face](), [GitHub]()    |   |     |         |       
-| Text-to-Speech Using SpeechT5         | [Hugging Face](https://huggingface.co/DrishtiSharma/speecht5_finetuned_voxpopuli_es_20k_steps_bs_8), [GitHub](https://github.com/DrishtiShrrrma/speechT5-spanish-tts)  |||||
-|DistilHuBERT fine-tuned on GTZAN for Audio Classification Task   | [Hugging Face](https://huggingface.co/DrishtiSharma/distilhubert-finetuned-gtzan-bs-4-fp16-false), [GitHub](https://github.com/DrishtiShrrrma/huggingface-audio-course/blob/main/unit4/distilhubert_finetuned_gtzan_bs_16.ipynb)     |         |     
-|**Wav2Vec2 fine-tuned on MESD Dataset for Emotion Classification**|[Hugging Face](https://huggingface.co/DrishtiSharma/wav2vec2-base-finetuned-sentiment-mesd-v9)||Accuracy = 91.54%||
-|**Time-stamp Prediction using Whisper**|[GitHub](https://github.com/DrishtiShrrrma/huggingface-audio-course/blob/main/unit5/Timestamp_Prediction_Using_Whisper_and_HF_Pipeline.ipynb)||||
-
-
-
 # 🕹Reinforcement Learning Projects
 
 | Index | Environment                      | Best Checkpoint                                                                                                 | mean_reward | Demo                                                                                                                             |
@@ -90,6 +77,22 @@ After segueing into the Data Science domain I've actively engaged with the [Hugg
 | 8     | ML-Agents-SnowballTarget         | [Checkpoint](https://huggingface.co/DrishtiSharma/ppo-SnowballTarget)                                         | 0           | Demo                                                                                                                       |
 | 9     | ML-Agents-Pyramids               | [Checkpoint](https://huggingface.co/DrishtiSharma/ppo-Pyramids)                                               | 0           | Demo                                                                                                                       |
 | 10    | ML-Agents-SoccerTwos             | [Checkpoint](https://huggingface.co/DrishtiSharma/SoccerTwos-numlayers-16)                                   | 0           | Demo                                                                                                                       |
+
+
+
+
+# 🎶 Audio Projects
+
+
+| Project Name       | Checkpoint       | Metrics                  | Blog                    | Demo                  |
+|--------------------|------------------|--------------------------|-------------------------|-----------------------|
+| ASR using Whisper        | [Hugging Face](https://huggingface.co/collections/DrishtiSharma/whisper-fine-tuning-event-winning-models-64fe0b2e8710fc5ebddd27c0), [GitHub]()    |   |     |         |       
+| Text-to-Speech Using SpeechT5         | [Hugging Face](https://huggingface.co/DrishtiSharma/speecht5_finetuned_voxpopuli_es_20k_steps_bs_8), [GitHub](https://github.com/DrishtiShrrrma/speechT5-spanish-tts)  |||||
+|DistilHuBERT fine-tuned on GTZAN for Audio Classification Task   | [Hugging Face](https://huggingface.co/DrishtiSharma/distilhubert-finetuned-gtzan-bs-4-fp16-false), [GitHub](https://github.com/DrishtiShrrrma/huggingface-audio-course/blob/main/unit4/distilhubert_finetuned_gtzan_bs_16.ipynb)     |         |     
+|**Wav2Vec2 fine-tuned on MESD Dataset for Emotion Classification**|[Hugging Face](https://huggingface.co/DrishtiSharma/wav2vec2-base-finetuned-sentiment-mesd-v9)||Accuracy = 91.54%||
+|**Time-stamp Prediction using Whisper**|[GitHub](https://github.com/DrishtiShrrrma/huggingface-audio-course/blob/main/unit5/Timestamp_Prediction_Using_Whisper_and_HF_Pipeline.ipynb)||||
+|**Wav2Vec2 fine-tuned for Keyword Spotting**|[Hugging Face](https://huggingface.co/DrishtiSharma/wav2vec2-base-finetuned-ks)||||
+
 
 
 
