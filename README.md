@@ -26,11 +26,11 @@ After segueing into the Data Science domain I've actively engaged with the [Hugg
 2. **Hugging Face Wav2Vec2 Fine-tuning Event, Feb'22:**
    - Attained 1st position with models fine-tuned for 7 distinct languages.
    - 
-3. Secured 3rd place in Analytics Vidhya Blogathon'26 for 'Best Guide'.
+3. **Secured 3rd place in Analytics Vidhya Blogathon'26 for 'Best Guide'.**
    
-4. Ranked 3rd in Analytics Vidhya Blogathon'26 for 'Best Article'.
+4. **Ranked 3rd in Analytics Vidhya Blogathon'26 for 'Best Article'.**
 
-5. Analytics Vidhya Blogathon Winner - Best Article
+5. **Analytics Vidhya Blogathon Winner - Best Article**
 
 ## 🥇 Certifications
 
