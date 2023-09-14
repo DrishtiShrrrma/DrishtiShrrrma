@@ -10,7 +10,7 @@
 
 
 
-## About Me 🙋‍♂️
+## 🙋‍♂️About Me 
 
 Hello there! I'm **Drishti**. With a passion for technology and a knack for problem-solving, I've delved into various projects, from Natural Language Processing to Audio DL and Reinforcement Learning.
 
@@ -32,7 +32,7 @@ After segueing into the Data Science domain I've actively engaged with the [Hugg
 
 5. Analytics Vidhya Blogathon Winner - Best Article -
 
-## Certifications
+## 🥇 Certifications
 
 1. [Hugging Face NLP Course Part-1 and Part-2](https://drive.google.com/file/d/1au4ozu8qrj0cV3391OwtyWknEXkxmA2K/view?usp=sharing).
 2. [Hugging Face Deep Reinforcement Learning Course 2023](https://github.com/DrishtiShrrrma/huggingface-RL-course-2023#huggingface-rl-course-2023).
