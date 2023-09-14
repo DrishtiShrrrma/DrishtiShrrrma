@@ -69,7 +69,8 @@ After segueing into the Data Science domain I've actively engaged with the [Hugg
 | Project Name       | Checkpoint       | Key Highlights           | Metrics                  | Blog                    | Demo                  |
 |--------------------|------------------|--------------------------|--------------------------|-------------------------|-----------------------|
 | ASR using Whisper        | [Hugging Face](), [GitHub]()    |   |     |         |       |
-| Text-to-Speech Using SpeechT5         | [Hugging Face](https://huggingface.co/DrishtiSharma/speecht5_finetuned_voxpopuli_es_20k_steps_bs_8), [GitHub](https://github.com/DrishtiShrrrma/speechT5-spanish-tts)     |DistilHuBERT fine-tuned on GTZAN for Audio Classification Task   | [Hugging Face](https://huggingface.co/DrishtiSharma/distilhubert-finetuned-gtzan-bs-4-fp16-false), [GitHub](https://github.com/DrishtiShrrrma/huggingface-audio-course/blob/main/unit4/distilhubert_finetuned_gtzan_bs_16.ipynb)     |         |     |
+| Text-to-Speech Using SpeechT5         | [Hugging Face](https://huggingface.co/DrishtiSharma/speecht5_finetuned_voxpopuli_es_20k_steps_bs_8), [GitHub](https://github.com/DrishtiShrrrma/speechT5-spanish-tts)  |||||
+|DistilHuBERT fine-tuned on GTZAN for Audio Classification Task   | [Hugging Face](https://huggingface.co/DrishtiSharma/distilhubert-finetuned-gtzan-bs-4-fp16-false), [GitHub](https://github.com/DrishtiShrrrma/huggingface-audio-course/blob/main/unit4/distilhubert_finetuned_gtzan_bs_16.ipynb)     |         |     |
 |**Wav2Vec2 fine-tuned on MESD Dataset for Emotion Classification**|[Hugging Face](https://huggingface.co/DrishtiSharma/wav2vec2-base-finetuned-sentiment-mesd-v9)||Accuracy = 91.54%|||
 |**Time-stamp Prediction using Whisper**|[GitHub](https://github.com/DrishtiShrrrma/huggingface-audio-course/blob/main/unit5/Timestamp_Prediction_Using_Whisper_and_HF_Pipeline.ipynb)|||||
 
