@@ -16,7 +16,7 @@ Hello there! I'm **Drishti**. With a passion for technology and a knack for prob
 
 I started my career with CPA Global (now Clarivate), Noida, where I worked for four years as an IP Researcher and IP Consultant respectively. This deep dive into patents not only honed my analytical skills but also introduced me to the vast expanse of AI. However, as time passed, a restless quest for greater purpose and multiple unexpected harsh twists in life pushed me to re-invent and rebuild my life.
 
-After segueing into the Data Science domain I've actively engaged with the [Hugging Face](https://huggingface.co/DrishtiSharma/) Hub's open-source initiatives and disseminated my research insights through [Medium](https://medium.com/@drishtisharma96505) and [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/drishti_sharma/).
+After segueing into the Data Science domain I've actively engaged with the [Hugging Face](https://huggingface.co/DrishtiSharma/)'s open-source initiatives and disseminated my research insights through [Medium](https://medium.com/@drishtisharma96505) and [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/drishti_sharma/).
 
 ## 🏆 Achievements
 
